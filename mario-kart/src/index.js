@@ -18,15 +18,15 @@ const player3 = {
   NOME: "Peach",
   VELOCIDADE: 3,
   MANOBRABILIDADE: 4,
-  PODER: 3,
+  PODER: 2,
   PONTOS: 0,
 };
 
 const player4 = {
   NOME: "Yoshi",
-  VELOCIDADE: 4,
-  MANOBRABILIDADE: 3,
-  PODER: 4,
+  VELOCIDADE: 2,
+  MANOBRABILIDADE: 4,
+  PODER: 3,
   PONTOS: 0,
 };
 
@@ -40,9 +40,9 @@ const player5 = {
 
 const player6 = {
   NOME: "Donkey Kong",
-  VELOCIDADE: 5,
-  MANOBRABILIDADE: 3,
-  PODER: 4,
+  VELOCIDADE: 2,
+  MANOBRABILIDADE: 2,
+  PODER: 5,
   PONTOS: 0,
 };
 
